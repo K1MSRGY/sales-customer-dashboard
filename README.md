@@ -1,0 +1,2 @@
+# sales-customer-dashboard
+Power BI dashboard for sales and customer analysis
